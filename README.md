@@ -1,14 +1,14 @@
 # Projeto-final-14---Call-Center
-# 📊 CallMeMaybe — Operator Efficiency Analysis
+#  CallMeMaybe — Operator Efficiency Analysis
 
-## 📌 Contexto
+##  Contexto
 A **CallMeMaybe** é uma plataforma de telefonia virtual que fornece tecnologia para call centers gerenciarem suas chamadas, permitindo monitoramento de ligações, geração de relatórios e análise da performance de operadores.
 
 Este projeto foi desenvolvido para apoiar supervisores na identificação de operadores com baixa eficiência operacional.
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 Identificar operadores ineficientes com base em dados reais de chamadas.
 
 Operadores podem ser considerados ineficientes quando:
@@ -19,7 +19,7 @@ Operadores podem ser considerados ineficientes quando:
 
 ---
 
-## 🧠 Problema de Negócio
+##  Problema de Negócio
 Baixa eficiência operacional impacta diretamente:
 
 - A satisfação do cliente  
@@ -29,13 +29,13 @@ Baixa eficiência operacional impacta diretamente:
 
 Detectar esses operadores permite ações rápidas como:
 
-✅ treinamentos direcionados  
-✅ ajustes de escala  
-✅ melhoria de processos  
+ treinamentos direcionados  
+ ajustes de escala  
+ melhoria de processos  
 
 ---
 
-## 🛠️ Ferramentas Utilizadas
+##  Ferramentas Utilizadas
 
 - **Python** — limpeza, transformação e análise de dados  
 - **Pandas / NumPy** — manipulação de dados  
