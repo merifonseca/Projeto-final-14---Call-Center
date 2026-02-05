@@ -46,6 +46,26 @@ Detectar esses operadores permite ações rápidas como:
 - **GitHub** — versionamento e documentação  
 
 ---
+## 🔎 Etapas do Projeto
+
+- Importação e inspeção dos datasets  
+- Limpeza e pré-processamento dos dados  
+- Criação de métricas de eficiência  
+- Análise Exploratória de Dados (EDA)  
+- Testes estatísticos  
+- Identificação de operadores ineficientes  
+- Desenvolvimento de dashboard  
+- Geração de recomendações estratégicas  
+
+---
+
+##  Dashboard
+👉 *(adicione o link do Tableau aqui quando finalizar)*
+
+---
+
+##  Apresentação
+👉 *(adicione o link dos slides aqui)*
 
 
 
