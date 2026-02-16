@@ -60,12 +60,12 @@ Detectar esses operadores permite ações rápidas como:
 ---
 
 ##  Dashboard
-👉 *(adicione o link do Tableau aqui quando finalizar)*
+👉 (https://public.tableau.com/app/profile/mariana.guimaraes.fonseca/viz/AnlisedeEficinciadeOperadoresCallMeMaybe/Painel1#1)
 
 ---
 
 ##  Apresentação
-👉 *(adicione o link dos slides aqui)*
-
+👉 https://docs.google.com/presentation/d/17GtQYbPLgnqU6iuihnErckVdvQK2mJzJVY27cRB_rnk/view?usp=sharing
+[Projeto final.pdf](https://github.com/user-attachments/files/25348611/Projeto.final.pdf)
 
 
